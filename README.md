@@ -1,4 +1,4 @@
-# a Fast Analyze and conversion tooL for variers CONstrainS (Falcons) 
+# a Fast Analyze and conversion tooL for variers CONstrainS (FALCONS) 
 update contrains from given SINEX among minimum constrains (MC), over constrains (OC) and loose constrains (LS). This tool is useful if removal or change of the constrains are required during the processing of the Terrestial Reference Frame (TRF).
 
 
