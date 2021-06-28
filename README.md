@@ -1,8 +1,10 @@
-# constrain
-update contrains from given SINEX among minimum constrains (MC), over constrains (OC) and loose constrains (LS). This tool is useful if removal or change of the constrain are required during the processing of the Terrestial Reference Frame (TRF).
+# a Fast Analyze and conversion tooL for variers CONstrainS (Falcons) 
+update contrains from given SINEX among minimum constrains (MC), over constrains (OC) and loose constrains (LS). This tool is useful if removal or change of the constrains are required during the processing of the Terrestial Reference Frame (TRF).
+
+
 
 This tool is consist of three parts 
-1. I/O with SINEX file
+1. I/O with SINEX files
 2. convert between types of constrains
 3. visualization tools for the fiducial sites
 
