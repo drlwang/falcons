@@ -21,8 +21,10 @@ The major scope of this program is to avoid the re-production of the normal equa
 Any comments and suggestion is welcome, we will be very happy to hear either anything need to be improve or this tool provided a bit help to your great mind or project.
 
 # Keywords: 
-Geodesy, TRF, constrain, inversion, NNT, NNR, NNS
+Geodesy, TRF, constrain, inversion, NNT, NNR, NNS，Reference Frame, S-transformation
 
 # Citation
 Please cite us if you find it useful. 
-{filling citation here}
+
+Ampatzidis, D., Wang, L., Mouratidis, A., & Balidakis, K. (in revision). On the Rigorous and Fast Constraints Transformations at the Solution Level: CaseStudies for Regional and Global GNSS Network. GPS Solut
+
