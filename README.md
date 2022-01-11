@@ -24,7 +24,7 @@ Any comments and suggestion is welcome, we will be very happy to hear either any
 Geodesy, TRF, constrain, inversion, NNT, NNR, NNS，Reference Frame, S-transformation
 
 # Citation
-Please cite us if you find it useful. 
+Please cite our paper if this is helpful. 
 
-Ampatzidis, D., Wang, L., Mouratidis, A., & Balidakis, K. (in revision). On the Rigorous and Fast Constraints Transformations at the Solution Level: CaseStudies for Regional and Global GNSS Network. GPS Solut
+Ampatzidis, D., Wang, L., Mouratidis, A., & Balidakis, K. (in revision). Rigorous and Fast Constraints Transformations at the Solution Level: Case Studies for Regional and Global GNSS Networks. GPS Solut
 
