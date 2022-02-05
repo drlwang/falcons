@@ -1,0 +1,5 @@
+
+% download the ITRF2014 file for testing with FALCONS software
+% Last visit: 2022-01-19 13:07 L.Wang @BKG VM
+
+ftp://itrf.ign.fr/pub/itrf/itrf2014/ITRF2014-IDS-EOP.SNX.gz
